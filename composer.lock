@@ -3212,6 +3212,7 @@
                 "portable",
                 "shim"
             ],
+
             "support": {
                 "source": "https://github.com/symfony/polyfill-mbstring/tree/v1.29.0"
             },
